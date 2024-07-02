@@ -33,5 +33,4 @@ An analog sensor value (possibly rainfall) is read and mapped to a specific rang
 Data Transmission: The sensor data is sent to the Blynk cloud platform using virtual pins.
 Local Display: The LCD displays real-time temperature, humidity, and other sensor data.
 LED Widget Control: The code controls an LED widget in the Blynk app based on a digital input, indicating high or low light levels.
-Timing and Scheduling: ![Screenshot 2024-07-02 184128](https://github.com/KUMARISELVI/CODTECH-Task-1/assets/145418381/bc3540c9-26a5-4b20-a7f3-b916954ae028)
-The BlynkTimer library is used to call the weather() function at regular intervals (every 10 milliseconds in the provided code, which should likely be 10 seconds).
+![Screenshot 2024-07-02 184128](https://github.com/KUMARISELVI/CODTECH-Task-1/assets/145418381/bc3540c9-26a5-4b20-a7f3-b916954ae028)
